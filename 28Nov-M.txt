@@ -1,0 +1,9 @@
+warming up...
+Solved very basic tree questions from gfg: 
+Inorder Traversal
+Level order traversal
+Find height of Binary Tree
+Count Leaves in Binary Tree
+Check for Children Sum Property
+Mirror Tree
+Check for Balanced Tree
