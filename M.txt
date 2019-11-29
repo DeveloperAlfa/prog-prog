@@ -1,3 +1,4 @@
+DAY1 28 Nov:
 warming up...
 Solved very basic tree questions from gfg: 
 Inorder Traversal
@@ -7,3 +8,7 @@ Count Leaves in Binary Tree
 Check for Children Sum Property
 Mirror Tree
 Check for Balanced Tree
+
+DAY2 29 Nov:
+Revised Time and Space complexities
+https://algs4.cs.princeton.edu/14analysis/
