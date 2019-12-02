@@ -1,3 +1,5 @@
 28Nov - N - Learnt that Priority Queues are not the same as Binary heaps. Followed 40% of William Fiset's Introduction to Data Structures.
 
 29Nov - N - Learnt about Path Compression in UnionFind and also about the Ackermann function. Revised Removal of nodes from BST and gave a codeforces contest (+40, 4 solved)
+
+2 Dec - N - Finally finished William Fiset (https://udemy-certificate.s3.amazonaws.com/pdf/UC-DRFMCRZO.pdf )
