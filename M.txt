@@ -13,3 +13,6 @@ DAY2 29 Nov:
 Revised Time and Space complexities
 https://algs4.cs.princeton.edu/cheatsheet/
 https://algs4.cs.princeton.edu/14analysis/
+
+Day3 4 Dec:
+5 questions from Leetcode
